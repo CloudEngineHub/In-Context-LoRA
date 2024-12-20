@@ -99,7 +99,7 @@ If you find this work useful in your research, please consider citing:
 ```
 
 ```bibtex
-@article{lhhuang2024iclora,
+@article{lhhuang2024groupdiffusion,
   title={Group Diffusion Transformers are Unsupervised Multitask Learners},
   author={Huang, Lianghua and Wang, Wei and Wu, Zhi-Fan and Dou, Huanzhang and Shi, Yupeng and Feng, Yutong and Liang, Chen and Liu, Yu and Zhou, Jingren},
   journal={arXiv preprint arxiv:2410.15027},
